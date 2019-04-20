@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: 28d453246a7eb47648606316cce39d13
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StoneTest_0
+    21300002: StoneTest_1
+    21300004: StoneTest_2
+    21300006: StoneTest_3
+    21300008: StoneTest_4
+    21300010: StoneTest_5
+    21300012: StoneTest_6
+    21300014: StoneTest_7
+    21300016: StoneTest_8
+    21300018: StoneTest_9
+    21300020: StoneTest_10
+    21300022: StoneTest_11
+    21300024: StoneTest_12
+    21300026: StoneTest_13
+    21300028: StoneTest_14
+    21300030: StoneTest_15
+    21300032: StoneTest_16
+    21300034: StoneTest_17
+    21300036: StoneTest_18
+    21300038: StoneTest_19
+    21300040: StoneTest_20
+    21300042: StoneTest_21
+    21300044: StoneTest_22
+    21300046: StoneTest_23
+    21300048: SW0_StoneTest
+    21300050: SE1_StoneTest
+    21300052: SW2_StoneTest
+    21300054: SE3_StoneTest
+    21300056: NW0_StoneTest
+    21300058: NE1_StoneTest
+    21300060: NW2_StoneTest
+    21300062: NE3_StoneTest
+    21300064: SW0_StoneTest
+    21300066: SE1_StoneTest
+    21300068: SW2_StoneTest
+    21300070: SE3_StoneTest
+    21300072: NW0_StoneTest
+    21300074: NE1_StoneTest
+    21300076: NW2_StoneTest
+    21300078: NE3_StoneTest
+    21300080: SW0_StoneTest
+    21300082: SE1_StoneTest
+    21300084: SW2_StoneTest
+    21300086: SE3_StoneTest
+    21300088: NW0_StoneTest
+    21300090: NE1_StoneTest
+    21300092: NW2_StoneTest
+    21300094: NE3_StoneTest
+    21300096: NW1_StoneTest
+    21300098: NW3_StoneTest
+    21300100: SE0_StoneTest
+    21300102: SE2_StoneTest
+    21300104: NW1_StoneTest
+    21300106: NW3_StoneTest
+    21300108: SE0_StoneTest
+    21300110: SE2_StoneTest
+    21300112: NW1_StoneTest
+    21300114: NW3_StoneTest
+    21300116: SE0_StoneTest
+    21300118: SE2_StoneTest
+    21300120: 0_StoneTest
+    21300122: 1_StoneTest
+    21300124: 2_StoneTest
+    21300126: 3_StoneTest
+    21300128: 1_StoneTest
+    21300130: 2_StoneTest
+    21300132: 3_StoneTest
+    21300134: 4_StoneTest
+    21300136: 2_StoneTest
+    21300138: 3_StoneTest
+    21300140: 4_StoneTest
+    21300142: 5_StoneTest
+    21300144: 3_StoneTest
+    21300146: 4_StoneTest
+    21300148: 5_StoneTest
+    21300150: 6_StoneTest
+    21300152: 4_StoneTest
+    21300154: 5_StoneTest
+    21300156: 6_StoneTest
+    21300158: 7_StoneTest
+    21300160: 5_StoneTest
+    21300162: 6_StoneTest
+    21300164: 7_StoneTest
+    21300166: 8_StoneTest
+    21300168: 00_StoneTest
+    21300170: 10_StoneTest
+    21300172: 20_StoneTest
+    21300174: 30_StoneTest
+    21300176: 01_StoneTest
+    21300178: 11_StoneTest
+    21300180: 21_StoneTest
+    21300182: 31_StoneTest
+    21300184: 02_StoneTest
+    21300186: 12_StoneTest
+    21300188: 22_StoneTest
+    21300190: 32_StoneTest
+    21300192: 03_StoneTest
+    21300194: 13_StoneTest
+    21300196: 23_StoneTest
+    21300198: 33_StoneTest
+    21300200: 04_StoneTest
+    21300202: 14_StoneTest
+    21300204: 24_StoneTest
+    21300206: 34_StoneTest
+    21300208: 05_StoneTest
+    21300210: 15_StoneTest
+    21300212: 25_StoneTest
+    21300214: 35_StoneTest
+    21300216: SW4_StoneTest
+    21300218: SE5_StoneTest
+    21300220: SW6_StoneTest
+    21300222: SE7_StoneTest
+    21300224: NW8_StoneTest
+    21300226: NE9_StoneTest
+    21300228: NW10_StoneTest
+    21300230: NE11_StoneTest
+    21300232: SW12_StoneTest
+    21300234: SE13_StoneTest
+    21300236: SW14_StoneTest
+    21300238: SE15_StoneTest
+    21300240: NW16_StoneTest
+    21300242: NE17_StoneTest
+    21300244: NW18_StoneTest
+    21300246: NE19_StoneTest
+    21300248: SW20_StoneTest
+    21300250: SE21_StoneTest
+    21300252: SW22_StoneTest
+    21300254: SE23_StoneTest
+    21300256: NW00_StoneTest
+    21300258: NE01_StoneTest
+    21300260: NW02_StoneTest
+    21300262: NE03_StoneTest
+    21300264: SW04_StoneTest
+    21300266: SE05_StoneTest
+    21300268: SW06_StoneTest
+    21300270: SE07_StoneTest
+    21300272: NW08_StoneTest
+    21300274: NE09_StoneTest
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0, y: -1}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NW00_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d975bbd8f4b24e279ff4ed03a055a8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NE01_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafbe0f3be1d34c80a81c88e55999a23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NW02_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82b881aa87a247389dd1bf6db7f4f7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NE03_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a43330a61194ceab9b77aa292dc993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW04_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da08feeb67aa446cf90bba6ea63a39f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SE05_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8668d391184a44a778db06d639b7d0ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW06_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825ae54e1c7454c88bc14a5e1a6e7290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SE07_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced4620b3209a4a86b62cec9a7dcd629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NW08_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590e02fdf2a8a40d4b6ad957a7e733af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NE09_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708c8e7efa64b4bf2879db9c7da8e4ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NW10_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34771aaaab66e43249eec22a6bca4f34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NE11_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35384189a4134412cbffd9e40683402c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW12_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4663998bd7e24bb0999404cdc39a817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SE13_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d479f219004e4efb8d424a78f0112a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW14_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05c464af8aec4804b69d651c28f7492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SE15_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53252280753544a14977a0ab53a40848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NW16_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0856ca0771b474d43ab0711bba41af95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NE17_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d243940685a0456088fca44537a00d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NW18_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5e87e5deacc4877af9f907247962b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NE19_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401aeb51aa5f640008f8ae54b5dc1de8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW20_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef058f2140e04b3c8bc45accc948b26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SE21_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196bccfeeb4164c3ea891f86c160c421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SW22_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d698bb42cbb4dfb9485959e16c52bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SE23_StoneTest
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a57164900caa4cd1ac58c165c615593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 263d29e6abb3a46038dc850801f0f5e6
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
