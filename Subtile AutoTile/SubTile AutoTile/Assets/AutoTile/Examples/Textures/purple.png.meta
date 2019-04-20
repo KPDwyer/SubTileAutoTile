@@ -1,147 +1,33 @@
 fileFormatVersion: 2
-guid: 28d453246a7eb47648606316cce39d13
+guid: e003816697d8cd94e86c66555da9be32
 TextureImporter:
   fileIDToRecycleName:
-    21300000: StoneTest_0
-    21300002: StoneTest_1
-    21300004: StoneTest_2
-    21300006: StoneTest_3
-    21300008: StoneTest_4
-    21300010: StoneTest_5
-    21300012: StoneTest_6
-    21300014: StoneTest_7
-    21300016: StoneTest_8
-    21300018: StoneTest_9
-    21300020: StoneTest_10
-    21300022: StoneTest_11
-    21300024: StoneTest_12
-    21300026: StoneTest_13
-    21300028: StoneTest_14
-    21300030: StoneTest_15
-    21300032: StoneTest_16
-    21300034: StoneTest_17
-    21300036: StoneTest_18
-    21300038: StoneTest_19
-    21300040: StoneTest_20
-    21300042: StoneTest_21
-    21300044: StoneTest_22
-    21300046: StoneTest_23
-    21300048: SW0_StoneTest
-    21300050: SE1_StoneTest
-    21300052: SW2_StoneTest
-    21300054: SE3_StoneTest
-    21300056: NW0_StoneTest
-    21300058: NE1_StoneTest
-    21300060: NW2_StoneTest
-    21300062: NE3_StoneTest
-    21300064: SW0_StoneTest
-    21300066: SE1_StoneTest
-    21300068: SW2_StoneTest
-    21300070: SE3_StoneTest
-    21300072: NW0_StoneTest
-    21300074: NE1_StoneTest
-    21300076: NW2_StoneTest
-    21300078: NE3_StoneTest
-    21300080: SW0_StoneTest
-    21300082: SE1_StoneTest
-    21300084: SW2_StoneTest
-    21300086: SE3_StoneTest
-    21300088: NW0_StoneTest
-    21300090: NE1_StoneTest
-    21300092: NW2_StoneTest
-    21300094: NE3_StoneTest
-    21300096: NW1_StoneTest
-    21300098: NW3_StoneTest
-    21300100: SE0_StoneTest
-    21300102: SE2_StoneTest
-    21300104: NW1_StoneTest
-    21300106: NW3_StoneTest
-    21300108: SE0_StoneTest
-    21300110: SE2_StoneTest
-    21300112: NW1_StoneTest
-    21300114: NW3_StoneTest
-    21300116: SE0_StoneTest
-    21300118: SE2_StoneTest
-    21300120: 0_StoneTest
-    21300122: 1_StoneTest
-    21300124: 2_StoneTest
-    21300126: 3_StoneTest
-    21300128: 1_StoneTest
-    21300130: 2_StoneTest
-    21300132: 3_StoneTest
-    21300134: 4_StoneTest
-    21300136: 2_StoneTest
-    21300138: 3_StoneTest
-    21300140: 4_StoneTest
-    21300142: 5_StoneTest
-    21300144: 3_StoneTest
-    21300146: 4_StoneTest
-    21300148: 5_StoneTest
-    21300150: 6_StoneTest
-    21300152: 4_StoneTest
-    21300154: 5_StoneTest
-    21300156: 6_StoneTest
-    21300158: 7_StoneTest
-    21300160: 5_StoneTest
-    21300162: 6_StoneTest
-    21300164: 7_StoneTest
-    21300166: 8_StoneTest
-    21300168: 00_StoneTest
-    21300170: 10_StoneTest
-    21300172: 20_StoneTest
-    21300174: 30_StoneTest
-    21300176: 01_StoneTest
-    21300178: 11_StoneTest
-    21300180: 21_StoneTest
-    21300182: 31_StoneTest
-    21300184: 02_StoneTest
-    21300186: 12_StoneTest
-    21300188: 22_StoneTest
-    21300190: 32_StoneTest
-    21300192: 03_StoneTest
-    21300194: 13_StoneTest
-    21300196: 23_StoneTest
-    21300198: 33_StoneTest
-    21300200: 04_StoneTest
-    21300202: 14_StoneTest
-    21300204: 24_StoneTest
-    21300206: 34_StoneTest
-    21300208: 05_StoneTest
-    21300210: 15_StoneTest
-    21300212: 25_StoneTest
-    21300214: 35_StoneTest
-    21300216: SW4_StoneTest
-    21300218: SE5_StoneTest
-    21300220: SW6_StoneTest
-    21300222: SE7_StoneTest
-    21300224: NW8_StoneTest
-    21300226: NE9_StoneTest
-    21300228: NW10_StoneTest
-    21300230: NE11_StoneTest
-    21300232: SW12_StoneTest
-    21300234: SE13_StoneTest
-    21300236: SW14_StoneTest
-    21300238: SE15_StoneTest
-    21300240: NW16_StoneTest
-    21300242: NE17_StoneTest
-    21300244: NW18_StoneTest
-    21300246: NE19_StoneTest
-    21300248: SW20_StoneTest
-    21300250: SE21_StoneTest
-    21300252: SW22_StoneTest
-    21300254: SE23_StoneTest
-    21300256: NW00_StoneTest
-    21300258: NE01_StoneTest
-    21300260: NW02_StoneTest
-    21300262: NE03_StoneTest
-    21300264: SW04_StoneTest
-    21300266: SE05_StoneTest
-    21300268: SW06_StoneTest
-    21300270: SE07_StoneTest
-    21300272: NW08_StoneTest
-    21300274: NE09_StoneTest
+    21300000: NW00_purple
+    21300002: NE01_purple
+    21300004: NW02_purple
+    21300006: NE03_purple
+    21300008: SW04_purple
+    21300010: SE05_purple
+    21300012: SW06_purple
+    21300014: SE07_purple
+    21300016: NW08_purple
+    21300018: NE09_purple
+    21300020: NW10_purple
+    21300022: NE11_purple
+    21300024: SW12_purple
+    21300026: SE13_purple
+    21300028: SW14_purple
+    21300030: SE15_purple
+    21300032: NW16_purple
+    21300034: NE17_purple
+    21300036: NW18_purple
+    21300038: NE19_purple
+    21300040: SW20_purple
+    21300042: SE21_purple
+    21300044: SW22_purple
+    21300046: SE23_purple
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -158,7 +44,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 1
+  isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
@@ -207,44 +93,11 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: Standalone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: NW00_StoneTest
+      name: NW00_purple
       rect:
         serializedVersion: 2
         x: 0
@@ -258,13 +111,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d975bbd8f4b24e279ff4ed03a055a8f
+      spriteID: 7203ac6e1579cfe4ca9e3e0a125af762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NE01_StoneTest
+      name: NE01_purple
       rect:
         serializedVersion: 2
         x: 16
@@ -278,13 +131,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eafbe0f3be1d34c80a81c88e55999a23
+      spriteID: d2e4b2068744b0149a2a82bcc33903f3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NW02_StoneTest
+      name: NW02_purple
       rect:
         serializedVersion: 2
         x: 32
@@ -298,13 +151,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a82b881aa87a247389dd1bf6db7f4f7a
+      spriteID: fc5a571ac7b011649b9cef04935ee08a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NE03_StoneTest
+      name: NE03_purple
       rect:
         serializedVersion: 2
         x: 48
@@ -318,13 +171,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c3a43330a61194ceab9b77aa292dc993
+      spriteID: fe19a83ee06aa3842aead35b4b70f786
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SW04_StoneTest
+      name: SW04_purple
       rect:
         serializedVersion: 2
         x: 0
@@ -338,13 +191,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: da08feeb67aa446cf90bba6ea63a39f9
+      spriteID: b25572955db48ee43b4532581d7fe480
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SE05_StoneTest
+      name: SE05_purple
       rect:
         serializedVersion: 2
         x: 16
@@ -358,13 +211,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8668d391184a44a778db06d639b7d0ad
+      spriteID: 66b3fa375aba5f24d8881eb9b55e274e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SW06_StoneTest
+      name: SW06_purple
       rect:
         serializedVersion: 2
         x: 32
@@ -378,13 +231,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 825ae54e1c7454c88bc14a5e1a6e7290
+      spriteID: fa5f3318ad5987848bea68ad4fb43b78
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SE07_StoneTest
+      name: SE07_purple
       rect:
         serializedVersion: 2
         x: 48
@@ -398,13 +251,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ced4620b3209a4a86b62cec9a7dcd629
+      spriteID: d0a4c2a8252547144916106c4ed9694d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NW08_StoneTest
+      name: NW08_purple
       rect:
         serializedVersion: 2
         x: 0
@@ -418,13 +271,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 590e02fdf2a8a40d4b6ad957a7e733af
+      spriteID: 8f149958e62833a43996d28617ed1ad1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NE09_StoneTest
+      name: NE09_purple
       rect:
         serializedVersion: 2
         x: 16
@@ -438,13 +291,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 708c8e7efa64b4bf2879db9c7da8e4ff
+      spriteID: 242b810b6c0630c489886af95af8ffb7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NW10_StoneTest
+      name: NW10_purple
       rect:
         serializedVersion: 2
         x: 32
@@ -458,13 +311,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 34771aaaab66e43249eec22a6bca4f34
+      spriteID: 7ac735410de018b4e81df4274b4869e9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NE11_StoneTest
+      name: NE11_purple
       rect:
         serializedVersion: 2
         x: 48
@@ -478,13 +331,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 35384189a4134412cbffd9e40683402c
+      spriteID: 9df5226d7b890e44b8f46865016fe33b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SW12_StoneTest
+      name: SW12_purple
       rect:
         serializedVersion: 2
         x: 0
@@ -498,13 +351,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4663998bd7e24bb0999404cdc39a817
+      spriteID: 563893158f8df8d4dac986fd01863db7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SE13_StoneTest
+      name: SE13_purple
       rect:
         serializedVersion: 2
         x: 16
@@ -518,13 +371,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d479f219004e4efb8d424a78f0112a1
+      spriteID: 05365625f022be14e9e28990325df45c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SW14_StoneTest
+      name: SW14_purple
       rect:
         serializedVersion: 2
         x: 32
@@ -538,13 +391,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e05c464af8aec4804b69d651c28f7492
+      spriteID: 4915595a0dcd40942952acfa9f2c3998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SE15_StoneTest
+      name: SE15_purple
       rect:
         serializedVersion: 2
         x: 48
@@ -558,13 +411,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 53252280753544a14977a0ab53a40848
+      spriteID: 1073694003de1b8489b95e67d645305f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NW16_StoneTest
+      name: NW16_purple
       rect:
         serializedVersion: 2
         x: 0
@@ -578,13 +431,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0856ca0771b474d43ab0711bba41af95
+      spriteID: ff862afb62a11a84c9459c75be03eac2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NE17_StoneTest
+      name: NE17_purple
       rect:
         serializedVersion: 2
         x: 16
@@ -598,13 +451,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4d243940685a0456088fca44537a00d7
+      spriteID: 37cf6ed679cfaea40a893d6a0ebd9a8f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NW18_StoneTest
+      name: NW18_purple
       rect:
         serializedVersion: 2
         x: 32
@@ -618,13 +471,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b5e87e5deacc4877af9f907247962b4
+      spriteID: 9798d38bba318ce43ab3574d497a23c2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NE19_StoneTest
+      name: NE19_purple
       rect:
         serializedVersion: 2
         x: 48
@@ -638,13 +491,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 401aeb51aa5f640008f8ae54b5dc1de8
+      spriteID: 29b52f582490812438e14a729b997e92
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SW20_StoneTest
+      name: SW20_purple
       rect:
         serializedVersion: 2
         x: 0
@@ -658,13 +511,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3ef058f2140e04b3c8bc45accc948b26
+      spriteID: 1938ebd483eaddc42924e2ca755e178e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SE21_StoneTest
+      name: SE21_purple
       rect:
         serializedVersion: 2
         x: 16
@@ -678,13 +531,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 196bccfeeb4164c3ea891f86c160c421
+      spriteID: 51565c60f3a19db4c892932af59fac2a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SW22_StoneTest
+      name: SW22_purple
       rect:
         serializedVersion: 2
         x: 32
@@ -698,13 +551,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6d698bb42cbb4dfb9485959e16c52bd
+      spriteID: 2e45e1efeb144224f84ab443131e33dd
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SE23_StoneTest
+      name: SE23_purple
       rect:
         serializedVersion: 2
         x: 48
@@ -718,7 +571,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0a57164900caa4cd1ac58c165c615593
+      spriteID: 65a7939d05933e14c863a891aa2812dc
       vertices: []
       indices: 
       edges: []
@@ -726,7 +579,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 263d29e6abb3a46038dc850801f0f5e6
+    spriteID: 6a4610abd1d81354ba8be6ae51bea7c7
     vertices: []
     indices: 
     edges: []
